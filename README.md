@@ -11,25 +11,6 @@
   </a>
 <h3 align="center">LC-Linux</h3>
 
-  
-#### *Work in progress*
-1. Install taskwarrior
-2. download repo to $USER/.task
-3. mv *$USER/.task/assets/lc-tasknote* to */usr/bin*
-4. mv *$USER/.task/assets/lc-task* to */usr/bin*
-5. make it executable
-6. run lc-task
-
-``` sh
-sudo apt install taskwarrior
-git clone https://github.com/batann/task --diractory=/home/batan/.task
-sudo mv .task/assets/{lc-task,lc-tasknote} /usr/bin
-sudo chmod a+x /usr/bin/lc-*
-```
-
-
-
-
   <p align="center">
     Work in progress,
     intended was a light-weight linux distribution based on AntiX-base-OS
@@ -111,30 +92,26 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* taskwarrior
 
+
+  
 ### Installation
+#### *Work in progress*
+1. Install taskwarrior
+2. download repo to $USER/.task
+3. mv *$USER/.task/assets/lc-tasknote* to */usr/bin*
+4. mv *$USER/.task/assets/lc-task* to */usr/bin*
+5. make it executable
+6. run lc-task
 
+``` sh
+sudo apt install taskwarrior
+git clone https://github.com/batann/task --diractory=/home/batan/.task
+sudo mv .task/assets/{lc-task,lc-tasknote} /usr/bin
+sudo chmod a+x /usr/bin/lc-*
+```
 
-
-1. If it doesnt exist, create `.config/lcbackup`
-2. Move all existing dot files to `.config/lcbackup`
-3. Move all dot files from `dot` to $USER
-
-
-  ```sh
-if [[ ! -d /home/batan/.config/lcbackup ]]; then
-  mkdir -p /home/batan/.config/lcbackup
-  fi
-  for i in $(ls /home/batan/lc-task/); do
-  mv /home/batan/.$i /home/batan/.config/lcbackup
-  mv /home/batan/lc-task/$i /home/batan/.$i
-  done
- sudo rm -r /home/batan/lc-task
- ```
 
 <p align="right">(<a href="#dot-top">back to top</a>)</p>
 
