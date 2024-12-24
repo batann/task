@@ -1,0 +1,208 @@
+time 1733325421
+new [description:"VENU codfe to create a radiolis closed quistions" entry:"1733325421" modified:"1733325421" status:"pending" uuid:"26b28b12-7518-41f7-aa75-b4c297d37633"]
+---
+time 1733325439
+old [description:"VENU codfe to create a radiolis closed quistions" entry:"1733325421" modified:"1733325421" status:"pending" uuid:"26b28b12-7518-41f7-aa75-b4c297d37633"]
+new [description:"VENU codfe to create a radiolis closed quistions start with cancel or exit" entry:"1733325421" modified:"1733325439" status:"pending" uuid:"26b28b12-7518-41f7-aa75-b4c297d37633"]
+---
+time 1733325453
+old [description:"VENU codfe to create a radiolis closed quistions start with cancel or exit" entry:"1733325421" modified:"1733325439" status:"pending" uuid:"26b28b12-7518-41f7-aa75-b4c297d37633"]
+new [description:"VENU codfe to create a radiolis closed quistions start with cancel or exit end with accept and continue" entry:"1733325421" modified:"1733325453" status:"pending" uuid:"26b28b12-7518-41f7-aa75-b4c297d37633"]
+---
+time 1733325471
+old [description:"VENU codfe to create a radiolis closed quistions start with cancel or exit end with accept and continue" entry:"1733325421" modified:"1733325453" status:"pending" uuid:"26b28b12-7518-41f7-aa75-b4c297d37633"]
+new [description:"VENU codfe to create a radiolis closed quistions start with cancel or exit end with accept and continue print all and itterate with VENU like code" entry:"1733325421" modified:"1733325471" status:"pending" uuid:"26b28b12-7518-41f7-aa75-b4c297d37633"]
+---
+time 1733373663
+old [description:"VENU codfe to create a radiolis closed quistions start with cancel or exit end with accept and continue print all and itterate with VENU like code" entry:"1733325421" modified:"1733325471" status:"pending" uuid:"26b28b12-7518-41f7-aa75-b4c297d37633"]
+new [description:"VENU codfe to create a radiolis closed quistions start with cancel or exit end with accept and continue print all and itterate with VENU like code" end:"1733373663" entry:"1733325421" modified:"1733373663" status:"completed" uuid:"26b28b12-7518-41f7-aa75-b4c297d37633"]
+---
+time 1733373733
+new [description:"test1" due:"1733400000" entry:"1733373733" modified:"1733373733" project:"340" status:"pending" uuid:"4b134130-fc38-4083-a141-bdd28649373c"]
+---
+time 1733373738
+new [description:"test2" due:"1733400000" entry:"1733373738" modified:"1733373738" project:"340" status:"pending" uuid:"8caaa968-8763-4d7d-a82b-ec9a55310c1f"]
+---
+time 1733373743
+new [description:"test3" due:"1733400000" entry:"1733373743" modified:"1733373743" project:"340" status:"pending" uuid:"4fdb3c34-0f91-4f0a-b480-c70ce998da52"]
+---
+time 1733438611
+old [description:"test1" due:"1733400000" entry:"1733373733" modified:"1733373733" project:"340" status:"pending" uuid:"4b134130-fc38-4083-a141-bdd28649373c"]
+new [description:"test1" due:"1733400000" end:"1733438609" entry:"1733373733" modified:"1733438611" project:"340" status:"completed" uuid:"4b134130-fc38-4083-a141-bdd28649373c"]
+---
+time 1733438611
+old [description:"test2" due:"1733400000" entry:"1733373738" modified:"1733373738" project:"340" status:"pending" uuid:"8caaa968-8763-4d7d-a82b-ec9a55310c1f"]
+new [description:"test2" due:"1733400000" end:"1733438611" entry:"1733373738" modified:"1733438611" project:"340" status:"completed" uuid:"8caaa968-8763-4d7d-a82b-ec9a55310c1f"]
+---
+time 1733438611
+old [description:"test3" due:"1733400000" entry:"1733373743" modified:"1733373743" project:"340" status:"pending" uuid:"4fdb3c34-0f91-4f0a-b480-c70ce998da52"]
+new [description:"test3" due:"1733400000" end:"1733438611" entry:"1733373743" modified:"1733438611" project:"340" status:"completed" uuid:"4fdb3c34-0f91-4f0a-b480-c70ce998da52"]
+---
+time 1733438677
+new [description:"3 hours time span +" due:"1733488200" entry:"1733438677" modified:"1733438677" project:"PC" status:"pending" uuid:"f8a660d9-9820-4924-8ce6-632d6b3e8d9a"]
+---
+time 1733449281
+new [description:"dayplanner" due:"1733486400" entry:"1733449281" modified:"1733449281" project:"341" status:"pending" uuid:"86459196-00bf-4da7-939f-ca675b75ea1d"]
+---
+time 1733462302
+new [description:"test" entry:"1733462302" modified:"1733462302" status:"pending" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+---
+time 1733462318
+old [description:"test" entry:"1733462302" modified:"1733462302" status:"pending" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+new [annotation_1733462318:"&open;tasknote&close; testtest" description:"test" entry:"1733462302" modified:"1733462318" status:"pending" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+---
+time 1733462348
+new [description:"test2" due:"1733486400" entry:"1733462348" modified:"1733462348" project:"341" status:"pending" uuid:"09d95cc4-f131-4955-a934-88fdefe2f1cc"]
+---
+time 1733462423
+old [annotation_1733462318:"&open;tasknote&close; testtest" description:"test" entry:"1733462302" modified:"1733462318" status:"pending" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+new [description:"test" entry:"1733462302" modified:"1733462423" status:"pending" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+---
+time 1733462423
+old [description:"test" entry:"1733462302" modified:"1733462423" status:"pending" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+new [annotation_1733462423:"&open;tasknote&close; testtest" description:"test" entry:"1733462302" modified:"1733462423" status:"pending" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+---
+time 1733462430
+old [annotation_1733462423:"&open;tasknote&close; testtest" description:"test" entry:"1733462302" modified:"1733462423" status:"pending" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+new [description:"test" entry:"1733462302" modified:"1733462430" status:"pending" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+---
+time 1733462430
+old [description:"test" entry:"1733462302" modified:"1733462430" status:"pending" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+new [annotation_1733462430:"&open;tasknote&close; testtest" description:"test" entry:"1733462302" modified:"1733462430" status:"pending" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+---
+time 1733462453
+old [annotation_1733462430:"&open;tasknote&close; testtest" description:"test" entry:"1733462302" modified:"1733462430" status:"pending" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+new [description:"test" entry:"1733462302" modified:"1733462453" status:"pending" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+---
+time 1733462453
+old [description:"test" entry:"1733462302" modified:"1733462453" status:"pending" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+new [annotation_1733462453:"&open;tasknote&close; testtest" description:"test" entry:"1733462302" modified:"1733462453" status:"pending" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+---
+time 1733462500
+new [description:"test3" due:"1734958800" entry:"1733462500" modified:"1733462500" status:"pending" uuid:"f9b73152-8e3f-4d1a-8a44-66f878653fc7"]
+---
+time 1733462628
+old [description:"test2" due:"1733486400" entry:"1733462348" modified:"1733462348" project:"341" status:"pending" uuid:"09d95cc4-f131-4955-a934-88fdefe2f1cc"]
+new [description:"test2" due:"1733486400" end:"1733462628" entry:"1733462348" modified:"1733462628" project:"341" status:"completed" uuid:"09d95cc4-f131-4955-a934-88fdefe2f1cc"]
+---
+time 1733462637
+old [description:"test3" due:"1734958800" entry:"1733462500" modified:"1733462500" status:"pending" uuid:"f9b73152-8e3f-4d1a-8a44-66f878653fc7"]
+new [description:"test3" due:"1734958800" end:"1733462637" entry:"1733462500" modified:"1733462637" status:"completed" uuid:"f9b73152-8e3f-4d1a-8a44-66f878653fc7"]
+---
+time 1733462644
+old [annotation_1733462453:"&open;tasknote&close; testtest" description:"test" entry:"1733462302" modified:"1733462453" status:"pending" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+new [annotation_1733462453:"&open;tasknote&close; testtest" description:"test" end:"1733462644" entry:"1733462302" modified:"1733462644" status:"completed" uuid:"e11ec20c-79f0-4445-91c8-bfdff510287e"]
+---
+time 1733462680
+new [description:"test1" entry:"1733462680" modified:"1733462680" status:"pending" uuid:"b7bb1e99-ea81-4e44-bc70-98200399cf0d"]
+---
+time 1733462758
+new [description:"test2" due:"1733486400" entry:"1733462758" modified:"1733462758" project:"341" status:"pending" uuid:"8b71f64e-1a33-4122-bbd4-376dbe5c7065"]
+---
+time 1733462762
+new [description:"test2" due:"1733486400" entry:"1733462762" modified:"1733462762" project:"341" status:"pending" uuid:"d0b59cb9-a386-4f8d-9d4b-986a2f1e6bbd"]
+---
+time 1733462774
+old [description:"test2" due:"1733486400" entry:"1733462762" modified:"1733462762" project:"341" status:"pending" uuid:"d0b59cb9-a386-4f8d-9d4b-986a2f1e6bbd"]
+new [description:"test2" due:"1733486400" end:"1733462774" entry:"1733462762" modified:"1733462774" project:"341" status:"completed" uuid:"d0b59cb9-a386-4f8d-9d4b-986a2f1e6bbd"]
+---
+time 1733462985
+new [description:"test5 +" due:"1733488200" entry:"1733462985" modified:"1733462985" project:"PC" status:"pending" uuid:"01b397b0-3a68-4f3d-957f-00018ebed337"]
+---
+time 1733463001
+old [description:"test5 +" due:"1733488200" entry:"1733462985" modified:"1733462985" project:"PC" status:"pending" uuid:"01b397b0-3a68-4f3d-957f-00018ebed337"]
+new [annotation_1733463001:"&open;tasknote&close; test5" description:"test5 +" due:"1733488200" entry:"1733462985" modified:"1733463001" project:"PC" status:"pending" uuid:"01b397b0-3a68-4f3d-957f-00018ebed337"]
+---
+time 1733463028
+old [annotation_1733463001:"&open;tasknote&close; test5" description:"test5 +" due:"1733488200" entry:"1733462985" modified:"1733463001" project:"PC" status:"pending" uuid:"01b397b0-3a68-4f3d-957f-00018ebed337"]
+new [annotation_1733463001:"&open;tasknote&close; test5" description:"test5 +" due:"1733488200" end:"1733463028" entry:"1733462985" modified:"1733463028" project:"PC" status:"completed" uuid:"01b397b0-3a68-4f3d-957f-00018ebed337"]
+---
+time 1733463040
+old [description:"test1" entry:"1733462680" modified:"1733462680" status:"pending" uuid:"b7bb1e99-ea81-4e44-bc70-98200399cf0d"]
+new [description:"test1" end:"1733463040" entry:"1733462680" modified:"1733463040" status:"completed" uuid:"b7bb1e99-ea81-4e44-bc70-98200399cf0d"]
+---
+time 1733463052
+old [description:"test2" due:"1733486400" entry:"1733462758" modified:"1733462758" project:"341" status:"pending" uuid:"8b71f64e-1a33-4122-bbd4-376dbe5c7065"]
+new [description:"test2" due:"1733486400" end:"1733463052" entry:"1733462758" modified:"1733463052" project:"341" status:"completed" uuid:"8b71f64e-1a33-4122-bbd4-376dbe5c7065"]
+---
+time 1733467820
+new [description:"use VENU logic for bash directory navigation" due:"1733486400" entry:"1733467820" modified:"1733467820" project:"341" status:"pending" uuid:"d552d278-e20d-4074-b153-270b515453ff"]
+---
+time 1733493074
+new [description:"test6" due:"1733572800" entry:"1733493074" modified:"1733493074" project:"342" status:"pending" uuid:"28ab27bb-f4ab-4242-80af-93964a62914a"]
+---
+time 1733493110
+old [description:"test6" due:"1733572800" entry:"1733493074" modified:"1733493074" project:"342" status:"pending" uuid:"28ab27bb-f4ab-4242-80af-93964a62914a"]
+new [description:"test6" due:"1733572800" end:"1733493110" entry:"1733493074" modified:"1733493110" project:"342" status:"completed" uuid:"28ab27bb-f4ab-4242-80af-93964a62914a"]
+---
+time 1733495455
+new [description:"test" entry:"1733495455" modified:"1733495455" status:"pending" uuid:"f01c7338-90b6-4fb0-8acf-47d3b6acb5fc"]
+---
+time 1733495463
+old [description:"test" entry:"1733495455" modified:"1733495455" status:"pending" uuid:"f01c7338-90b6-4fb0-8acf-47d3b6acb5fc"]
+new [description:"test" end:"1733495463" entry:"1733495455" modified:"1733495463" status:"completed" uuid:"f01c7338-90b6-4fb0-8acf-47d3b6acb5fc"]
+---
+time 1733495475
+new [description:"test" due:"1733572800" entry:"1733495475" modified:"1733495475" status:"pending" uuid:"63628e2c-4b13-4089-9729-cbd296a1b268"]
+---
+time 1733495504
+old [description:"test" due:"1733572800" entry:"1733495475" modified:"1733495475" status:"pending" uuid:"63628e2c-4b13-4089-9729-cbd296a1b268"]
+new [description:"test" due:"1733572800" end:"1733495504" entry:"1733495475" modified:"1733495504" status:"completed" uuid:"63628e2c-4b13-4089-9729-cbd296a1b268"]
+---
+time 1733690025
+new [description:"lc-task and yad-podcasts" due:"1733747400" entry:"1733690025" modified:"1733690025" project:"PC" status:"pending" tags:"temporary" tags_temporary:"x" uuid:"9d2dea2f-d3ba-4de4-9049-7c44c94d2f34"]
+---
+time 1733690079
+old [description:"lc-task and yad-podcasts" due:"1733747400" entry:"1733690025" modified:"1733690025" project:"PC" status:"pending" tags:"temporary" tags_temporary:"x" uuid:"9d2dea2f-d3ba-4de4-9049-7c44c94d2f34"]
+new [annotation_1733690079:"&open;tasknote&close; projects go finalize:" description:"lc-task and yad-podcasts" due:"1733747400" entry:"1733690025" modified:"1733690079" project:"PC" status:"pending" tags:"temporary" tags_temporary:"x" uuid:"9d2dea2f-d3ba-4de4-9049-7c44c94d2f34"]
+---
+time 1733860507
+old [annotation_1733690079:"&open;tasknote&close; projects go finalize:" description:"lc-task and yad-podcasts" due:"1733747400" entry:"1733690025" modified:"1733690079" project:"PC" status:"pending" tags:"temporary" tags_temporary:"x" uuid:"9d2dea2f-d3ba-4de4-9049-7c44c94d2f34"]
+new [annotation_1733690079:"&open;tasknote&close; projects go finalize:" description:"lc-task and yad-podcasts" due:"1733747400" end:"1733860507" entry:"1733690025" modified:"1733860507" project:"PC" status:"completed" tags:"temporary" tags_temporary:"x" uuid:"9d2dea2f-d3ba-4de4-9049-7c44c94d2f34"]
+---
+time 1733860518
+old [description:"dayplanner" due:"1733486400" entry:"1733449281" modified:"1733449281" project:"341" status:"pending" uuid:"86459196-00bf-4da7-939f-ca675b75ea1d"]
+new [description:"dayplanner" due:"1733486400" end:"1733860518" entry:"1733449281" modified:"1733860518" project:"341" status:"completed" uuid:"86459196-00bf-4da7-939f-ca675b75ea1d"]
+---
+time 1733860529
+old [description:"use VENU logic for bash directory navigation" due:"1733486400" entry:"1733467820" modified:"1733467820" project:"341" status:"pending" uuid:"d552d278-e20d-4074-b153-270b515453ff"]
+new [description:"use VENU logic for bash directory navigation" due:"1733486400" end:"1733860529" entry:"1733467820" modified:"1733860529" project:"341" status:"completed" uuid:"d552d278-e20d-4074-b153-270b515453ff"]
+---
+time 1733860595
+old [description:"3 hours time span +" due:"1733488200" entry:"1733438677" modified:"1733438677" project:"PC" status:"pending" uuid:"f8a660d9-9820-4924-8ce6-632d6b3e8d9a"]
+new [annotation_1733860595:"&open;tasknote&close; dayplaner" description:"3 hours time span +" due:"1733488200" entry:"1733438677" modified:"1733860595" project:"PC" status:"pending" uuid:"f8a660d9-9820-4924-8ce6-632d6b3e8d9a"]
+---
+time 1733885048
+new [description:"346-readme" due:"1733918400" entry:"1733885048" modified:"1733885048" project:"346" status:"pending" uuid:"57ff0d7d-65aa-4634-a7f1-d6ae58c36e12"]
+---
+time 1733885487
+old [description:"346-readme" due:"1733918400" entry:"1733885048" modified:"1733885048" project:"346" status:"pending" uuid:"57ff0d7d-65aa-4634-a7f1-d6ae58c36e12"]
+new [annotation_1733885487:"&open;tasknote&close;" description:"346-readme" due:"1733918400" entry:"1733885048" modified:"1733885487" project:"346" status:"pending" uuid:"57ff0d7d-65aa-4634-a7f1-d6ae58c36e12"]
+---
+time 1733885892
+old [annotation_1733885487:"&open;tasknote&close;" description:"346-readme" due:"1733918400" entry:"1733885048" modified:"1733885487" project:"346" status:"pending" uuid:"57ff0d7d-65aa-4634-a7f1-d6ae58c36e12"]
+new [description:"346-readme" due:"1733918400" entry:"1733885048" modified:"1733885892" project:"346" status:"pending" uuid:"57ff0d7d-65aa-4634-a7f1-d6ae58c36e12"]
+---
+time 1733885892
+old [description:"346-readme" due:"1733918400" entry:"1733885048" modified:"1733885892" project:"346" status:"pending" uuid:"57ff0d7d-65aa-4634-a7f1-d6ae58c36e12"]
+new [annotation_1733885892:"&open;tasknote&close;" description:"346-readme" due:"1733918400" entry:"1733885048" modified:"1733885892" project:"346" status:"pending" uuid:"57ff0d7d-65aa-4634-a7f1-d6ae58c36e12"]
+---
+time 1733889900
+old [annotation_1733885892:"&open;tasknote&close;" description:"346-readme" due:"1733918400" entry:"1733885048" modified:"1733885892" project:"346" status:"pending" uuid:"57ff0d7d-65aa-4634-a7f1-d6ae58c36e12"]
+new [description:"346-readme" due:"1733918400" entry:"1733885048" modified:"1733889900" project:"346" status:"pending" uuid:"57ff0d7d-65aa-4634-a7f1-d6ae58c36e12"]
+---
+time 1733889900
+old [description:"346-readme" due:"1733918400" entry:"1733885048" modified:"1733889900" project:"346" status:"pending" uuid:"57ff0d7d-65aa-4634-a7f1-d6ae58c36e12"]
+new [annotation_1733889900:"&open;tasknote&close;" description:"346-readme" due:"1733918400" entry:"1733885048" modified:"1733889900" project:"346" status:"pending" uuid:"57ff0d7d-65aa-4634-a7f1-d6ae58c36e12"]
+---
+time 1733895893
+new [description:"ranger modular-config and file-manager-scripts in sub-dir" due:"1733918400" entry:"1733895893" modified:"1733895893" project:"346" status:"pending" uuid:"0e1f0f60-e69d-4859-8fb4-8cca6b612ed1"]
+---
+time 1733906222
+old [annotation_1733889900:"&open;tasknote&close;" description:"346-readme" due:"1733918400" entry:"1733885048" modified:"1733889900" project:"346" status:"pending" uuid:"57ff0d7d-65aa-4634-a7f1-d6ae58c36e12"]
+new [description:"346-readme" due:"1733918400" entry:"1733885048" modified:"1733906222" project:"346" status:"pending" uuid:"57ff0d7d-65aa-4634-a7f1-d6ae58c36e12"]
+---
+time 1733906222
+old [description:"346-readme" due:"1733918400" entry:"1733885048" modified:"1733906222" project:"346" status:"pending" uuid:"57ff0d7d-65aa-4634-a7f1-d6ae58c36e12"]
+new [annotation_1733906222:"&open;tasknote&close;" description:"346-readme" due:"1733918400" entry:"1733885048" modified:"1733906222" project:"346" status:"pending" uuid:"57ff0d7d-65aa-4634-a7f1-d6ae58c36e12"]
+---
