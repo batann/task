@@ -9,6 +9,9 @@
   <a href="https://github.com/batann/lc-task/images/logo.png">
     <img src="images/logo.png" alt="Logo" width="1024" height="412">
   </a>
+<h3 align="center">LC-Linux</h3>
+
+  
 #### *Work in progress*
 1. Install taskwarrior
 2. download repo to $USER/.task
@@ -26,7 +29,6 @@ sudo chmod a+x /usr/bin/lc-*
 
 
 
-<h3 align="center">LC-Linux</h3>
 
   <p align="center">
     Work in progress,
