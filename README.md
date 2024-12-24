@@ -1,4 +1,19 @@
-# dot
+# LC-tasks
+#### *Work in progress*
+1. Install taskwarrior
+2. download repo to $USER/.task
+3. mv *$USER/.task/assets/lc-tasknote* to */usr/bin*
+4. mv *$USER/.task/assets/lc-task* to */usr/bin*
+5. make it executable
+6. run lc-task
+
+``` sh
+sudo apt install taskwarrior
+git clone https://github.com/batann/task --diractory=/home/batan/.task
+sudo mv .task/assets/{lc-task,lc-tasknote} /usr/bin
+sudo chmod a+x /usr/bin/lc-*
+```
+
 
 <code>:s!dot! !g</code>
 <a id="dot-top"></a>
