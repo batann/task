@@ -1,4 +1,14 @@
 # LC-tasks
+
+
+<a id="dot-top"></a>
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/batann/lc-task/images/logo.png">
+    <img src="images/logo.png" alt="Logo" width="1024" height="412">
+  </a>
 #### *Work in progress*
 1. Install taskwarrior
 2. download repo to $USER/.task
@@ -15,15 +25,6 @@ sudo chmod a+x /usr/bin/lc-*
 ```
 
 
-<code>:s!dot! !g</code>
-<a id="dot-top"></a>
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/batann/lc-task/images/logo.png">
-    <img src="images/logo.png" alt="Logo" width="1024" height="512">
-  </a>
 
 <h3 align="center">LC-Linux</h3>
 
